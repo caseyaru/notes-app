@@ -17,6 +17,7 @@ const config: Config = {
     colors: {
       dark: '#26212D',
       white: '#FFFF',
+      shadow: 'rgba(0, 0, 0, 0.5)',
     }
   },
   plugins: [],
