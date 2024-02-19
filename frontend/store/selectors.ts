@@ -1,0 +1,1 @@
+export const getPopups = (state: any) => state.popups; //ЗАТЫЧКА! проверь тип стейта
